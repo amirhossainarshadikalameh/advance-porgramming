@@ -75,4 +75,3 @@ def solve(arr):
     pass
 
 
-# print(solve(' 12 + 113 = 1#5'))
